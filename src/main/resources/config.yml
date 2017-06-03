@@ -1,0 +1,9 @@
+starting_balance:
+  blocks: 50
+  cubes: 100
+mysql:
+  user: root
+  password: 'PkG9L^@6b89?rwFZ'
+  host: localhost
+  port: '3306'
+  databaseName: proxy_blocks
